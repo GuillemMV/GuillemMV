@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuillemMV
+- 👋 Hi, I’m @GuillemMV and im a DAM student.
 - 🌱 I’m currently learning Bash Scriting, Python3, GNULinux...
 - 📫 How to reach me:
 
