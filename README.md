@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuillemMV and im a DAM student.
-- 🌱 I’m currently learning Bash Scriting, Python3, GNULinux...
+- 🌱 I’m currently learning Bash Scriting, Python3, GNULinux, Docker...
 - 📫 How to reach me:
 
      gmagrinavernet@outlook.es
