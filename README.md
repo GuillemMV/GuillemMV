@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuillemMV and im a Software Development student.
-- 🌱 I’m currently learning Bash criting, Python3, Docker, Java...
+- 🌱 I’m currently learning Shell scripting, Python3, Docker, Java...
 - 📫 How to reach me:
 
      gmagrinavernet@outlook.es
