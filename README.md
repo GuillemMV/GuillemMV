@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GuillemMV and im a Software Development student.
-- 🌱 I’m currently learning lots of technologies, but the most important ones are:
+- 🙋‍♂️ Hi, I’m @GuillemMV and im a Software Development student.
+- 🌐 I’m currently learning lots of technologies, but the most important ones are:
      - Angular
      - GraphQL
      - NestJS
