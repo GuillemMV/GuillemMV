@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hey! I'm Guillem, and i am currently studying software development.
-
+Hey! I'm Guillem, and i am a Software Development student.
+If something defines me, is my curiosity and delight for programming and learning :)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guillemmv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/guillemmv) 
